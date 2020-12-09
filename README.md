@@ -33,5 +33,5 @@ For more info on poker hands, you can also check out the Wikipedia [List of poke
 
 ## Getting Started
 
-* Please create your own branch to keep the master as a clean jump-off point.
+* Please create your own branch to keep the `main` branch as a clean jump-off point.
 * A partial implementation of the problem has been provided so that the pairing exercise can focus on implementing the logic for a winning hand
