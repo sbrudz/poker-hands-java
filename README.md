@@ -1,5 +1,5 @@
 # PokerHands
-This is a sample program to bu used as a jump-off point for a pair programming exercise.  
+This is a sample program to be used as a jumping-off point for a pair programming exercise.  
 It is based on the [PokerHands](https://projecteuler.net/problem=54) from [Project Euler](https://projecteuler.net/)
 
 There is a Card class that represents a 52-card deck of with
@@ -32,12 +32,6 @@ The cards are valued in the order:
 For more info on poker hands, you can also check out the Wikipedia [List of poker hands](http://en.wikipedia.org/wiki/List_of_poker_hands) page
 
 ## Getting Started
-Please create your own branch to keep the master as a clean jump off point for all interviews
 
-**git co -b *candidate-name* **
-
-You should feel empowered to implement the solutions and use a workflow that is right for you.
-
-### Hints
-The Cyrus employee doing the pairing should review the  [hints.md](hints.md) file to help structure the exercise. 
-The candidate can look at the hints page if they get stuck, although it would be better if the Cyrus employee talks them through the problem.
+* Please create your own branch to keep the master as a clean jump-off point.
+* A partial implementation of the problem has been provided so that the pairing exercise can focus on implementing the logic for a winning hand
